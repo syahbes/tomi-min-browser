@@ -20,10 +20,10 @@ html {
 .blue-gradient-background {
   background: linear-gradient(
     135deg,
-    rgba(80, 122, 196, 1) 43%,
-    rgba(80, 122, 196, 1) 43%,
-    rgba(128, 192, 226, 1) 89%,
-    rgba(128, 192, 226, 1) 89%
+    rgba(255, 0, 131, 1) 43%,
+    rgba(255, 0, 131, 1) 43%,
+    rgba(255, 102, 178, 1) 89%,
+    rgba(255, 102, 178, 1) 89%
   );
   color: #fff;
 }
